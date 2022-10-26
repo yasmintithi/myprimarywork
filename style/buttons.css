@@ -1,0 +1,88 @@
+
+.subscribe-button {
+    background-color:rgb(25, 0, 100);
+    color: white;
+    border: none;
+    
+    border-radius: 10px;
+    cursor: pointer;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+}
+
+    .subscribe-button:hover{
+        opacity: 0.8;
+    }
+
+    .subscribe-button:active{
+        opacity: 0.4;
+    }
+.join-button {
+    background-color: white;
+    border-color: blueviolet;
+    border-style: solid;
+    border-width: 1px;
+    color: darkblue;
+    border-radius: 2px;
+    cursor: pointer;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px
+
+
+}
+
+    .join-button:hover{
+        background-color: rgb(41, 118, 21);
+        color: white;
+
+
+    }
+    .join-button:active{
+        opacity: 0.7;
+    }
+
+    .tweeter-button{
+        background-color:rgb(2, 137,255);
+        color: white;
+        border: none;
+        height: 36px;
+        width: 80px;
+        border-radius: 18px;
+        font-weight: bold;
+        font-size: 15px;
+        cursor: pointer;
+        margin-left: 8px;
+        transition: box-shadow 0.15s;
+        vertical-align: top;
+        
+    }
+
+    .tweeter-button:hover{
+        box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.6);
+
+    }
+    .facebook-button
+    {
+        
+            background-color: rgb(103, 63, 139);
+            color: white;
+            border: none;
+            border-radius: 20px;
+            border-bottom: 10px;
+            border-top: 10px;
+            border-width: 20px;
+            height: 30px;
+            width: 100px;
+            cursor: pointer;
+            
+
+        
+    }
+
+
